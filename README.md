@@ -1,0 +1,3 @@
+# College-Project-1
+Hey I am a masters student who has never coded before as this is for a science project, I am trying to make a multiple gas sensors unit with a data logging feature and hopefully wireless connectivity as well, I have never coded before this project and this is what I've been working on for the past two months.  I really need some help as I can't get any from the college and I have a month to get data or I'm screwed, any and all inputs will help thank you.
+Overall the aim of this project was to make an e-nose sensor to detect gases emitted from soils but I am having no luck with getting it all to come together and my supervisor is not much help and is on holiday for the next two weeks actually so any help would be greatly appreciated.
